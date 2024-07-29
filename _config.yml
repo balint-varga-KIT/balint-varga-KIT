@@ -12,7 +12,7 @@ title                    : "Balint Varga"
 title_separator          : "-"
 name                     : &name "Balint Varga"
 description              : &description "personal description"
-url                      : https://balint-varga-kit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://balint-varga-kit.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "balint-varga-kit.github.io"
 
@@ -21,13 +21,13 @@ repository               : "balint-varga-kit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Contact"
+  avatar           : "Balint_Varga.png"
+  name             : "Balint Varga"
   #pronouns         : # example: "she/her"  
   bio              : "Head of Research Group Cooperative Systems"
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
-  uri              : https://www.irs.kit.edu/1361_1666.php
+  uri              : "https://www.irs.kit.edu/1361_1666.php"
   email            : "balint.varga2@kit.edu" 
 
   # Academic websites
