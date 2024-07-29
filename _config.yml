@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Balint Varga"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Balint Varga"
 description              : &description "personal description"
 url                      : https://balint-varga-kit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "balint-varga-kit/balint-varga-kit.github.io"
+repository               : "balint-varga-kit.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
